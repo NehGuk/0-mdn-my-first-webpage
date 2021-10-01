@@ -7,4 +7,7 @@ h1 {
 
 p {
   color: black;
+  font-family: poleno, sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
