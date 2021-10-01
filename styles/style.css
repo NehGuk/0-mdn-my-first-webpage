@@ -1,12 +1,8 @@
-html {
-  font-family: "Roboto Slab", serif;
-}
-
 h1 {
   font-family: "Amatic SC", cursive;
   font-size: 92px;
 }
 
 p {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Slab", serif;
 }
