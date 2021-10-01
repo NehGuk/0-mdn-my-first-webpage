@@ -1,11 +1,9 @@
 html {
-font-size: 30px;
-font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
-
-/* I tried adding fonts from Google Fonts and Adobe Fonts. Still not getting the hang of it. Ask a teacher later./*
-
-h1 {
-    text-align: center;
-    font-size: 60px;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
