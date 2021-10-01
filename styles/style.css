@@ -17,6 +17,7 @@ h1 {
   font-family: amatic-sc, sans-serif;
   font-weight: 700;
   font-style: normal;
+  font-size: 54px;
   text-shadow: 1px 1px 1px grey;
   margin: 0;
   padding: 20px 0;
@@ -26,6 +27,7 @@ h2 {
   font-size: 24px;
 }
 
+}
 p {
   padding: 10px;
 }
@@ -34,4 +36,14 @@ li {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border: 0px solid black;
+}
+
+button {
+    size: 300px;
 }
