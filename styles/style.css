@@ -27,7 +27,6 @@ h2 {
   font-size: 24px;
 }
 
-}
 p {
   padding: 10px;
 }
@@ -42,8 +41,4 @@ img {
   display: block;
   margin: 0 auto;
   border: 0px solid black;
-}
-
-button {
-    size: 300px;
 }
