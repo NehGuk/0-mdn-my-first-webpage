@@ -9,7 +9,6 @@ myImage.onclick = function() {
     }
 }
 
-
 /* In main.js, place the following code at the bottom of the file, exactly as it is written. This takes references to the new button and the heading, storing each inside variables: */
 let myButton = document.querySelector('button');
 let myHeading = document.querySelector('h1');
